@@ -6,7 +6,7 @@ Tier.Net is renowned for its reliable hosting solutions that cater to businesses
 ![image](https://github.com/dacevedod949/TierNet/assets/167734716/a3d7aaa2-d4a5-485e-9bd4-3b91b5652d36)
 
 ## Tier.Net Official Website Address
-[http://www.tier.net)](https://billing.tier.net/aff.php?aff=253)
+[http://www.tier.net](https://billing.tier.net/aff.php?aff=253)
 
 ## Tier.Net Coupon Code
 Take advantage of our competitive prices without the need for a coupon! Get started with our high-performance VPS hosting solutions today.
